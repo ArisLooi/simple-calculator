@@ -21,7 +21,7 @@ To run this project, you need a web browser.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https://github.com/ArisLooi/simple-calculator.git
 2. Navigate to the project directory:
 
 ## Usage
