@@ -23,6 +23,8 @@ To run this project, you need a web browser.
    ```bash
    git clone https://github.com/ArisLooi/simple-calculator.git
 2. Navigate to the project directory:
+   ```bash
+   cd simple-calculator
 
 ## Usage
 1. Open the index.html file in your web browser.
